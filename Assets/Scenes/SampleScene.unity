@@ -276,6 +276,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 792555148209893569, guid: 1b69ec858cc4a734d8323b958d44eda9,
+        type: 3}
+      propertyPath: maxSpeed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 792555148209893569, guid: 1b69ec858cc4a734d8323b958d44eda9,
+        type: 3}
+      propertyPath: dampening
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 792555148209893569, guid: 1b69ec858cc4a734d8323b958d44eda9,
+        type: 3}
+      propertyPath: acceleration
+      value: 50
+      objectReference: {fileID: 0}
     - target: {fileID: 792555148209893570, guid: 1b69ec858cc4a734d8323b958d44eda9,
         type: 3}
       propertyPath: m_Name

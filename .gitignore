@@ -2,6 +2,7 @@ Library/
 Logs/
 Packages/
 UserSettings/
+Temp/
 
 100 Mechanics - WASD Movement.sln
 Assembly-CSharp.csproj
